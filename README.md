@@ -2,14 +2,16 @@
 
 ![Tensorflow实战Google深度学习框架](images/cover.JPEG)
 
-## note
+官方源码： [caicloud / tensorflow-tutorial](https://github.com/caicloud/tensorflow-tutorial)
 
-- 在 [caicloud / tensorflow-tutorial](https://github.com/caicloud/tensorflow-tutorial) 和 [TensorFlow_learning_notes](https://github.com/cookeem/TensorFlow_learning_notes) 的基础上对代码进行了必要的注释；
+## 所做的工作
 
-- 对 tensorflow 老版本中被遗弃的特性代码进行修正和注释说明；
-- 在ipynb文件中添加了自己的学习笔记。
+- 基于当前最新版本的 tensorflow 对代码中被遗弃及更改的特性进行修正；
+- 所有代码基于python3；
+- 对代码增加了了必要的注释；
+- 添加了自己的学习笔记。
 
-## 版本
+## 使用版本
 
 Tensorflow版本：
 
@@ -26,7 +28,7 @@ python版本：
 Python 3.6.5
 ```
 
-## 本书目录
+## 关于本书的内容，目录预览如下：
 
 ###第1章 深度学习简介 
 
